@@ -5,8 +5,8 @@
     make
     
 ### Run
-    ./fbs <CCID> <MAX_PROCESS_COUNT>
+    ./fbs <CCID> <MAX_PROCESS_COUNT> &
 
 ### Test
-	./fbs <CCID> <MAX_PROCESS_COUNT>
+	./fbs <CCID> <MAX_PROCESS_COUNT> &
 	./fb
