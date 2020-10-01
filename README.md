@@ -1,7 +1,6 @@
 # Fork Bomb Shield
 
 ### Compile 
-    cmake CMakeLists.txt
     make
     
 ### Run
